@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to the Universe Database Project! This project focuses on the creation and management of a database that simulates a universe, complete with galaxies, planets, moons, stars, and satellites. The goal is to provide a structured and scalable solution for storing information about celestial bodies and their relationships within the cosmos.
+Welcome to the Universe Database! This project focuses on the creation and management of a database that simulates a universe, complete with galaxies, planets, moons, stars, and satellites. The goal is to provide a structured and scalable solution for storing information about celestial bodies and their relationships within the cosmos.
 
 
 ## Key Features
